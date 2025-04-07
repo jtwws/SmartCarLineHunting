@@ -1,0 +1,9 @@
+﻿  opencvTest.cpp
+C:\Users\wws\Desktop\opencvTest\opencvTest.cpp(75,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wws\Desktop\opencvTest\opencvTest.cpp(253,100): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wws\Desktop\opencvTest\opencvTest.cpp(260,135): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wws\Desktop\opencvTest\opencvTest.cpp(265,122): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wws\Desktop\opencvTest\opencvTest.cpp(270,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wws\Desktop\opencvTest\opencvTest.cpp(686,155): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wws\Desktop\opencvTest\opencvTest.cpp(687,88): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  opencvTest.vcxproj -> C:\Users\wws\Desktop\opencvTest\x64\Debug\opencvTest.exe
